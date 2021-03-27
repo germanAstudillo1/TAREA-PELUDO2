@@ -1,0 +1,59 @@
+body {
+    background-color: rgb(26, 24, 24);
+    font-family: sans-serif;
+    color: white;
+}
+
+.capamenu {
+    float: left;
+    background-color: rgb(26, 24, 24);
+    color: white;
+    width: 20%;
+
+}
+
+.capamenu li a {
+    text-decoration: none;
+    color: white;
+}
+
+.capamenu li {
+    display: block;
+    padding: 5px;
+}
+
+.capamenu li :hover {
+    filter: brightness(0.5);
+    transition: 0.5s;
+}
+
+.capacontenido {
+    float: left;
+    width: 80%;
+}
+
+.capa1 {
+    
+    background-color: rgb(16, 230, 230);
+    padding: 20px;
+}
+
+.capa2 {
+    
+    background-color: rgb(228, 225, 36);
+    padding: 20px;
+}
+
+.capa3 {
+
+    
+    background-color: rgb(235, 142, 35);
+    padding: 20px;
+}
+
+
+.capa4 {
+    
+    background-color: rgb(243, 47, 12);
+    padding: 20px;
+}
